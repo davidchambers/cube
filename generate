@@ -1,0 +1,138 @@
+#!/usr/bin/env bash
+set -e
+
+uriencode() {
+  s="${1//' '/'%20'}"
+  s="${s//'"'/'%22'}"
+  s="${s//'#'/'%23'}"
+  s="${s//'$'/'%24'}"
+  s="${s//'&'/'%26'}"
+  s="${s//'+'/'%2B'}"
+  s="${s//','/'%2C'}"
+  s="${s//'/'/'%2F'}"
+  s="${s//':'/'%3A'}"
+  s="${s//';'/'%3B'}"
+  s="${s//'='/'%3D'}"
+  s="${s//'?'/'%3F'}"
+  s="${s//'@'/'%40'}"
+  s="${s//'['/'%5B'}"
+  s="${s//']'/'%5D'}"
+  printf %s "$s"
+}
+
+escape() {
+  s="${1//'"'/&quot;}"
+  s="${s//'<'/&lt;}"
+  s="${s//'>'/&gt;}"
+  printf %s "$s"
+}
+
+pattern='^- \(.*\) (\(.*\))$'
+
+cat <<HEADER
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Cube</title>
+  <style>
+    body {
+      margin: 0;
+      background: #eed;
+      padding: 0 32px 32px 348px;
+      font-family: Palatino, serif;
+    }
+    h3 {
+      margin: 0;
+      padding: 1em 0 0.75em;
+      font-size: 1.25em;
+    }
+    ul {
+      margin: -3px;
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      float: left;
+      margin: 3px;
+    }
+    img {
+      display: block;
+      width: 86px;
+      height: 122px;
+      padding: 3px;
+      border-radius: 5px;
+      background: #111;
+      box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+    }
+    img[src*="$(uriencode 'Unlimited Edition')"] {
+      background: #fff;
+    }
+    #large-card {
+      position: fixed;
+      left: 32px;
+      top: 57px;
+      width: 268px;
+      height: 380px;
+      padding: 8px;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+  <img id="large-card" alt="placeholder" src="http://mtgimage.com/card/cardback.jpg">
+HEADER
+
+in_block=false
+while read line ; do
+  if [[ "$line" == \#* ]] ; then
+    heading="${line/'### '/}"
+    printf '  <h3 id="%s">%s</h3>\n' "$(tr [:upper:] [:lower:] <<<"$heading")" "$(escape "$heading")"
+  elif [[ "$line" == -* ]] ; then
+    card_name="$(sed "s:$pattern:\1:" <<<"$line")"
+    expansion="$(sed "s:$pattern:\2:" <<<"$line")"
+    printf '    <li><a href="%s"><img src="%s" alt="%s"></a></li>\n' \
+      "$(escape "http://gatherer.wizards.com/Pages/Card/Details.aspx?name=$(uriencode "$card_name")")" \
+      "$(escape "http://mtgimage.com/setname/$(uriencode "$expansion")/$(uriencode "$card_name").jpg")" \
+      "$(escape "$card_name")"
+  elif [[ "$in_block" == false ]] ; then
+    in_block=true
+    printf '  <ul>\n'
+  elif [[ "$in_block" == true ]] ; then
+    in_block=false
+    printf '  </ul>\n  <div style="clear:left"></div>\n'
+  fi
+done <"$1"
+
+cat <<FOOTER
+  <script>
+    (function() {
+      'use strict';
+
+      var repeat = function(n, s) { return new Array(n + 1).join(s); };
+      var counts = [];
+      var output = '\n';
+      var nodeList = document.getElementsByTagName('h3');
+      for (var idx = 0; idx < nodeList.length; idx += 1) {
+        var left = nodeList[idx].textContent + ' ';
+        var right = ' ' + (counts[counts.length] = nodeList[idx].nextElementSibling.getElementsByTagName('li').length);
+        output += left + repeat(20 - left.length - right.length, '.') + right + '\n';
+      }
+      var total = String(counts.reduce(function(a, b) { return a + b; }, 0));
+      output += repeat(20, '=') + '\n';
+      output += repeat(20 - total.length, ' ') + total + '\n';
+      output += '\n';
+      console.log(output);
+
+      var largeCard = document.getElementById('large-card');
+      document.body.addEventListener('mouseover', function(event) {
+        if (event.target.tagName === 'IMG') {
+          largeCard.alt = event.target.alt;
+          largeCard.src = event.target.src;
+        }
+      }, false);
+    }());
+  </script>
+</body>
+</html>
+FOOTER
