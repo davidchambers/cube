@@ -45,7 +45,6 @@
   - Griffin Guide (Time Spiral)
   - Knight of the Holy Nimbus (Time Spiral)
   - Mana Tithe (Planar Chaos)
-  - Cloudgoat Ranger (Lorwyn)
   - Oblivion Ring (Lorwyn)
   - Reveillark (Morningtide)
   - Spectral Procession (Shadowmoor)
@@ -59,6 +58,7 @@
   - Fiend Hunter (Innistrad)
   - Geist-Honored Monk (Innistrad)
   - Spectral Rider (Innistrad)
+  - Lingering Souls (Dark Ascension)
   - Oreskos Swiftclaw (Journey into Nyx)
 
 ### Blue
