@@ -59,7 +59,7 @@
   - Geist-Honored Monk (Innistrad)
   - Spectral Rider (Innistrad)
   - Lingering Souls (Dark Ascension)
-  - Oreskos Swiftclaw (Journey into Nyx)
+  - Seeker of the Way (Khans of Tarkir)
 
 ### Blue
 
