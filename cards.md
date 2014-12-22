@@ -259,7 +259,6 @@
   - Fyndhorn Elves (Ice Age)
   - Nature's Lore (Ice Age)
   - Stunted Growth (Ice Age)
-  - Tinder Wall (Ice Age)
   - Armor of Thorns (Mirage)
   - Rampant Growth (Mirage)
   - Wall of Roots (Mirage)
@@ -312,6 +311,7 @@
   - Terastodon (Worldwake)
   - Avacyn's Pilgrim (Innistrad)
   - Briarpack Alpha (Dark Ascension)
+  - Sylvan Caryatid (Theros)
 
 ### Multicolored
 
