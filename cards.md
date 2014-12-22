@@ -66,6 +66,7 @@
   - Control Magic (Unlimited Edition)
   - Counterspell (Unlimited Edition)
   - Psionic Blast (Unlimited Edition)
+  - Old Man of the Sea (Arabian Nights)
   - Serendib Efreet (Arabian Nights)
   - Sindbad (Arabian Nights)
   - Force Spike (Legends)
@@ -120,7 +121,6 @@
   - Snapcaster Mage (Innistrad)
   - Spectral Flight (Innistrad)
   - Think Twice (Innistrad)
-  - Beguiler of Wills (Dark Ascension)
   - Thought Scour (Dark Ascension)
   - Hour of Need (Journey into Nyx)
 
