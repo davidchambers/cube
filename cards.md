@@ -360,7 +360,6 @@
   - Zuran Orb (Ice Age)
   - Gustha's Scepter (Alliances)
   - Lion's Eye Diamond (Mirage)
-  - Triangle of War (Visions)
   - Bosium Strip (Weatherlight)
   - Mind Stone (Weatherlight)
   - Cursed Scroll (Tempest)
@@ -396,6 +395,7 @@
   - Runechanter's Pike (Innistrad)
   - Helvault (Dark Ascension)
   - Pyromancer's Gauntlet (Magic 2014)
+  - Hall of Triumph (Journey into Nyx)
 
 ### Land
 
