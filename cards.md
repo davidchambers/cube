@@ -227,7 +227,6 @@
   - Shrapnel Blast (Mirrodin)
   - Slith Firewalker (Mirrodin)
   - Magma Jet (Fifth Dawn)
-  - Hearth Kami (Champions of Kamigawa)
   - Kiki-Jiki, Mirror Breaker (Champions of Kamigawa)
   - Tin Street Hooligan (Guildpact)
   - Bogardan Hellkite (Time Spiral)
@@ -249,6 +248,7 @@
   - Young Pyromancer (Magic 2014)
   - Harness by Force (Journey into Nyx)
   - Hordeling Outburst (Khans of Tarkir)
+  - Monastery Swiftspear (Khans of Tarkir)
 
 ### Green
 
