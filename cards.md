@@ -315,7 +315,6 @@
 
 ### Multicolored
 
-  - Fiery Justice (Ice Age)
   - Stormbind (Ice Age)
   - Phelddagrif (Alliances)
   - Absorb (Invasion)
@@ -339,6 +338,7 @@
   - Agony Warp (Shards of Alara)
   - Broodmate Dragon (Shards of Alara)
   - Rhox War Monk (Shards of Alara)
+  - Bloodbraid Elf (Alara Reborn)
   - Qasali Pridemage (Alara Reborn)
   - Venser, the Sojourner (Scars of Mirrodin)
   - Geist of Saint Traft (Innistrad)
