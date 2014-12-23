@@ -71,7 +71,6 @@
   - Sindbad (Arabian Nights)
   - Force Spike (Legends)
   - Brainstorm (Ice Age)
-  - Illusionary Forces (Ice Age)
   - Krovikan Sorcerer (Ice Age)
   - Memory Lapse (Homelands)
   - Arcane Denial (Alliances)
@@ -123,6 +122,7 @@
   - Think Twice (Innistrad)
   - Thought Scour (Dark Ascension)
   - Hour of Need (Journey into Nyx)
+  - Disdainful Stroke (Khans of Tarkir)
 
 ### Black
 
