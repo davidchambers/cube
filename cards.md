@@ -330,7 +330,6 @@
   - [x] Psychatog (Odyssey)
   - [x] Shadowmage Infiltrator (Odyssey)
   - [x] Mirari's Wake (Judgment)
-  - [x] Trygon Predator (Dissension)
   - [x] Firespout (Shadowmoor)
   - [x] Figure of Destiny (Eventide)
   - [x] Agony Warp (Shards of Alara)
@@ -345,6 +344,7 @@
   - [x] Fleecemane Lion (Theros)
   - [x] Spellheart Chimera (Theros)
   - [ ] Garruk, Apex Predator (Magic 2015)
+  - [x] Sagu Mauler (Khans of Tarkir)
 
 ### Artifact
 
