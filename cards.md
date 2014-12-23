@@ -317,7 +317,6 @@
 
   - Stormbind (Ice Age)
   - Phelddagrif (Alliances)
-  - Absorb (Invasion)
   - Armadillo Cloak (Invasion)
   - Fires of Yavimaya (Invasion)
   - Void (Invasion)
@@ -345,6 +344,7 @@
   - Olivia Voldaren (Innistrad)
   - Fleecemane Lion (Theros)
   - Spellheart Chimera (Theros)
+  - Garruk, Apex Predator (Magic 2015)
 
 ### Artifact
 
