@@ -19,7 +19,6 @@
   - [x] Soltari Champion (Stronghold)
   - [x] Cataclysm (Exodus)
   - [x] Soltari Visionary (Exodus)
-  - [x] Glorious Anthem (Urza's Saga)
   - [x] Monk Idealist (Urza's Saga)
   - [x] Worship (Urza's Saga)
   - [x] Mother of Runes (Urza's Legacy)
@@ -59,6 +58,7 @@
   - [x] Doomed Traveler (Innistrad)
   - [x] Fiend Hunter (Innistrad)
   - [x] Geist-Honored Monk (Innistrad)
+  - [x] Spear of Heliod (Theros)
   - [x] Seeker of the Way (Khans of Tarkir)
 
 ### Blue
