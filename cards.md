@@ -301,16 +301,16 @@
   - Life from the Loam (Ravnica: City of Guilds)
   - Krosan Grip (Time Spiral)
   - Search for Tomorrow (Time Spiral)
-  - Primal Command (Lorwyn)
   - Harmonize (Planar Chaos)
   - Tarmogoyf (Future Sight)
+  - Primal Command (Lorwyn)
+  - Woodfall Primus (Shadowmoor)
   - Wild Nacatl (Shards of Alara)
   - Noble Hierarch (Conflux)
   - Lotus Cobra (Zendikar)
   - Mold Shambler (Zendikar)
   - Terastodon (Worldwake)
   - Avacyn's Pilgrim (Innistrad)
-  - Briarpack Alpha (Dark Ascension)
   - Sylvan Caryatid (Theros)
 
 ### Multicolored
