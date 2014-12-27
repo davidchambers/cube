@@ -27,7 +27,7 @@ escape() {
   printf %s "$s"
 }
 
-pattern='^- \(.*\) (\(.*\))$'
+pattern='^- \[\([ x]\)\] \(.*\) (\(.*\))$'
 
 cat <<HEADER
 <!doctype html>
@@ -55,6 +55,9 @@ cat <<HEADER
     li {
       float: left;
       margin: 3px;
+    }
+    li[data-checked="false"] {
+      opacity: 0.5;
     }
     img {
       display: block;
@@ -89,9 +92,11 @@ while read line ; do
     heading="${line/'### '/}"
     printf '  <h3 id="%s">%s</h3>\n' "$(tr [:upper:] [:lower:] <<<"$heading")" "$(escape "$heading")"
   elif [[ "$line" == -* ]] ; then
-    card_name="$(sed "s:$pattern:\1:" <<<"$line")"
-    expansion="$(sed "s:$pattern:\2:" <<<"$line")"
-    printf '    <li><a href="%s"><img src="%s" alt="%s"></a></li>\n' \
+    box_value="$(sed "s:$pattern:\1:" <<<"$line")"
+    card_name="$(sed "s:$pattern:\2:" <<<"$line")"
+    expansion="$(sed "s:$pattern:\3:" <<<"$line")"
+    printf '    <li data-checked="%s"><a href="%s"><img src="%s" alt="%s"></a></li>\n' \
+      "$([[ "$box_value" == x ]] && echo true || echo false)" \
       "$(escape "http://gatherer.wizards.com/Pages/Card/Details.aspx?name=$(uriencode "$card_name")")" \
       "$(escape "http://mtgimage.com/setname/$(uriencode "$expansion")/$(uriencode "$card_name").jpg")" \
       "$(escape "$card_name")"
