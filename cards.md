@@ -316,7 +316,6 @@
 ### Multicolored
 
   - [x] Stormbind (Ice Age)
-  - [x] Phelddagrif (Alliances)
   - [x] Armadillo Cloak (Invasion)
   - [x] Fires of Yavimaya (Invasion)
   - [x] Void (Invasion)
@@ -342,6 +341,7 @@
   - [x] Venser, the Sojourner (Scars of Mirrodin)
   - [x] Geist of Saint Traft (Innistrad)
   - [x] Olivia Voldaren (Innistrad)
+  - [x] Detention Sphere (Return to Ravnica)
   - [x] Fleecemane Lion (Theros)
   - [x] Spellheart Chimera (Theros)
   - [ ] Garruk, Apex Predator (Magic 2015)
