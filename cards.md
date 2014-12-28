@@ -59,7 +59,7 @@
   - [x] Geist-Honored Monk (Innistrad)
   - [x] Spectral Rider (Innistrad)
   - [ ] Lingering Souls (Dark Ascension)
-  - [ ] Seeker of the Way (Khans of Tarkir)
+  - [x] Seeker of the Way (Khans of Tarkir)
 
 ### Blue
 
@@ -91,7 +91,7 @@
   - [x] Treachery (Urza's Destiny)
   - [x] Misdirection (Mercadian Masques)
   - [x] Daze (Nemesis)
-  - [ ] Fact or Fiction (Invasion)
+  - [x] Fact or Fiction (Invasion)
   - [x] Upheaval (Odyssey)
   - [x] Aquamoeba (Torment)
   - [x] Deep Analysis (Torment)
@@ -122,7 +122,7 @@
   - [x] Think Twice (Innistrad)
   - [x] Thought Scour (Dark Ascension)
   - [x] Hour of Need (Journey into Nyx)
-  - [ ] Disdainful Stroke (Khans of Tarkir)
+  - [x] Disdainful Stroke (Khans of Tarkir)
 
 ### Black
 
@@ -247,8 +247,8 @@
   - [x] Young Pyromancer (Magic 2014)
   - [x] Harness by Force (Journey into Nyx)
   - [x] Lightning Strike (Magic 2015)
-  - [ ] Hordeling Outburst (Khans of Tarkir)
-  - [ ] Monastery Swiftspear (Khans of Tarkir)
+  - [x] Hordeling Outburst (Khans of Tarkir)
+  - [x] Monastery Swiftspear (Khans of Tarkir)
 
 ### Green
 
@@ -262,7 +262,7 @@
   - [x] Armor of Thorns (Mirage)
   - [x] Rampant Growth (Mirage)
   - [x] Wall of Roots (Mirage)
-  - [ ] Natural Order (Visions)
+  - [x] Natural Order (Visions)
   - [x] Stampeding Wildebeests (Visions)
   - [x] Uktabi Orangutan (Visions)
   - [x] Constant Mists (Stronghold)
@@ -271,7 +271,7 @@
   - [x] Spike Weaver (Exodus)
   - [x] Exploration (Urza's Saga)
   - [x] Gaea's Embrace (Urza's Saga)
-  - [ ] Deranged Hermit (Urza's Legacy)
+  - [x] Deranged Hermit (Urza's Legacy)
   - [x] Rancor (Urza's Legacy)
   - [x] Simian Grunts (Urza's Legacy)
   - [x] Plow Under (Urza's Destiny)
@@ -310,7 +310,7 @@
   - [ ] Lotus Cobra (Zendikar)
   - [ ] Terastodon (Worldwake)
   - [x] Avacyn's Pilgrim (Innistrad)
-  - [ ] Sylvan Caryatid (Theros)
+  - [x] Sylvan Caryatid (Theros)
   - [x] Hornet Queen (Magic 2015)
 
 ### Multicolored
@@ -343,7 +343,7 @@
   - [x] Detention Sphere (Return to Ravnica)
   - [x] Fleecemane Lion (Theros)
   - [x] Spellheart Chimera (Theros)
-  - [ ] Garruk, Apex Predator (Magic 2015)
+  - [x] Garruk, Apex Predator (Magic 2015)
   - [x] Sagu Mauler (Khans of Tarkir)
 
 ### Artifact
