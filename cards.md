@@ -308,10 +308,10 @@
   - [x] Wild Nacatl (Shards of Alara)
   - [x] Noble Hierarch (Conflux)
   - [ ] Lotus Cobra (Zendikar)
-  - [ ] Mold Shambler (Zendikar)
   - [ ] Terastodon (Worldwake)
   - [x] Avacyn's Pilgrim (Innistrad)
   - [ ] Sylvan Caryatid (Theros)
+  - [x] Hornet Queen (Magic 2015)
 
 ### Multicolored
 
