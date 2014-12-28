@@ -194,7 +194,6 @@
   - [x] Lightning Bolt (Unlimited Edition)
   - [x] Wheel of Fortune (Unlimited Edition)
   - [x] Kird Ape (Arabian Nights)
-  - [ ] Incinerate (Ice Age)
   - [x] Jokulhaups (Ice Age)
   - [x] Orcish Lumberjack (Ice Age)
   - [x] Pyroclasm (Ice Age)
@@ -247,6 +246,7 @@
   - [ ] Chandra, Pyromaster (Magic 2014)
   - [x] Young Pyromancer (Magic 2014)
   - [x] Harness by Force (Journey into Nyx)
+  - [x] Lightning Strike (Magic 2015)
   - [ ] Hordeling Outburst (Khans of Tarkir)
   - [ ] Monastery Swiftspear (Khans of Tarkir)
 
