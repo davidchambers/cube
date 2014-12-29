@@ -391,11 +391,11 @@
   - [x] Pentad Prism (Fifth Dawn)
   - [x] Vedalken Shackles (Fifth Dawn)
   - [x] Sensei's Divining Top (Champions of Kamigawa)
+  - [ ] Relic of Progenitus (Shards of Alara)
   - [x] Molten-Tail Masticore (Scars of Mirrodin)
   - [x] Runechanter's Pike (Innistrad)
   - [x] Helvault (Dark Ascension)
   - [x] Pyromancer's Gauntlet (Magic 2014)
-  - [ ] Hall of Triumph (Journey into Nyx)
 
 ### Land
 
