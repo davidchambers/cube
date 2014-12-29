@@ -454,9 +454,9 @@
   - [x] Steam Vents (Guildpact)
   - [x] Breeding Pool (Dissension)
   - [x] Academy Ruins (Time Spiral)
+  - [x] Spinerock Knoll (Lorwyn)
   - [x] Mutavault (Morningtide)
   - [x] Leechridden Swamp (Shadowmoor)
-  - [ ] Teetering Peaks (Zendikar)
   - [x] Gavony Township (Innistrad)
   - [x] Moorland Haunt (Innistrad)
 
