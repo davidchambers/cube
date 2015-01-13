@@ -147,7 +147,7 @@
   - [x] Buried Alive (Weatherlight)
   - [x] Spinning Darkness (Weatherlight)
   - [x] Living Death (Tempest)
-  - [ ] Reanimate (Tempest)
+  - [x] Reanimate (Tempest)
   - [x] Sarcomancy (Tempest)
   - [x] Carnophage (Exodus)
   - [x] Corrupt (Urza's Saga)
