@@ -39,7 +39,7 @@ cat <<HEADER
     body {
       margin: 0;
       background: #eed;
-      padding: 0 32px 32px 348px;
+      padding: 0 32px 32px 287px;
       font-family: Palatino, serif;
     }
     h3 {
@@ -61,29 +61,23 @@ cat <<HEADER
     }
     img {
       display: block;
-      width: 86px;
-      height: 122px;
-      padding: 3px;
-      border-radius: 5px;
-      background: #111;
+      width: 92px;
+      height: 128px;
+      border-radius: 4px;
       box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
-    }
-    img[src*="$(uriencode 'Unlimited Edition')"] {
-      background: #fff;
     }
     #large-card {
       position: fixed;
       left: 32px;
       top: 57px;
-      width: 268px;
-      height: 380px;
-      padding: 8px;
-      border-radius: 12px;
+      width: 223px;
+      height: 310px;
+      border-radius: 10px;
     }
   </style>
 </head>
 <body>
-  <img id="large-card" alt="placeholder" src="http://mtgimage.com/card/cardback.jpg">
+  <img id="large-card" alt="placeholder" src="http://gatherer.wizards.com/Handlers/Image.ashx?name=xxx&type=card">
 HEADER
 
 in_block=false
@@ -98,7 +92,7 @@ while read line ; do
     printf '    <li data-checked="%s"><a href="%s"><img src="%s" alt="%s"></a></li>\n' \
       "$([[ "$box_value" == x ]] && echo true || echo false)" \
       "$(escape "http://gatherer.wizards.com/Pages/Card/Details.aspx?name=$(uriencode "$card_name")")" \
-      "$(escape "http://mtgimage.com/setname/$(uriencode "$expansion")/$(uriencode "$card_name").jpg")" \
+      "$(escape "http://gatherer.wizards.com/Handlers/Image.ashx?name=$(uriencode "$card_name")&type=card")" \
       "$(escape "$card_name")"
   elif [[ "$in_block" == false ]] ; then
     in_block=true
