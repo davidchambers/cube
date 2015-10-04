@@ -70,6 +70,8 @@ declare -A sets=(
   ["Khans of Tarkir"]="KTK"
   ["Fate Reforged"]="FRF"
   ["Dragons of Tarkir"]="DTK"
+  ["Magic Origins"]="ORI"
+  ["Battle for Zendikar"]="BFZ"
 )
 
 uriencode() {
