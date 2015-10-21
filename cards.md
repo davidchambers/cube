@@ -129,7 +129,6 @@
   - [x] Black Knight (Unlimited Edition)
   - [x] Dark Ritual (Unlimited Edition)
   - [x] Hypnotic Specter (Unlimited Edition)
-  - [x] Mind Twist (Unlimited Edition)
   - [x] Sinkhole (Unlimited Edition)
   - [x] Hymn to Tourach (Fallen Empires)
   - [x] Dance of the Dead (Ice Age)
@@ -186,6 +185,7 @@
   - [x] Tragic Slip (Dark Ascension)
   - [x] Hero's Downfall (Theros)
   - [x] Mogis's Marauder (Theros)
+  - [x] Toxic Deluge (Commander 2013)
 
 ### Red
 

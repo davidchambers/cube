@@ -66,6 +66,7 @@ declare -A sets=(
   ["Gatecrash"]="GTC"
   ["Dragon's Maze"]="DGM"
   ["Theros"]="THS"
+  ["Commander 2013"]="C13"
   ["Born of the Gods"]="BNG"
   ["Journey into Nyx"]="JOU"
   ["Khans of Tarkir"]="KTK"
