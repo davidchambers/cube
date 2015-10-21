@@ -128,7 +128,6 @@
 
   - [x] Black Knight (Unlimited Edition)
   - [x] Dark Ritual (Unlimited Edition)
-  - [x] Drain Life (Unlimited Edition)
   - [x] Hypnotic Specter (Unlimited Edition)
   - [x] Mind Twist (Unlimited Edition)
   - [x] Sinkhole (Unlimited Edition)
@@ -179,6 +178,7 @@
   - [x] Damnation (Planar Chaos)
   - [x] Thoughtseize (Lorwyn)
   - [x] Doom Blade (Magic 2010)
+  - [x] Go for the Throat (Mirrodin Besieged)
   - [x] Bloodgift Demon (Innistrad)
   - [x] Diregraf Ghoul (Innistrad)
   - [x] Skirsdag High Priest (Innistrad)
