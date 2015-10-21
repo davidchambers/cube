@@ -189,7 +189,6 @@
 
 ### Red
 
-  - [x] Dragon Whelp (Unlimited Edition)
   - [x] Earthquake (Unlimited Edition)
   - [x] Lightning Bolt (Unlimited Edition)
   - [x] Wheel of Fortune (Unlimited Edition)
@@ -249,6 +248,7 @@
   - [x] Lightning Strike (Magic 2015)
   - [x] Hordeling Outburst (Khans of Tarkir)
   - [x] Monastery Swiftspear (Khans of Tarkir)
+  - [x] Sarkhan, the Dragonspeaker (Khans of Tarkir)
 
 ### Green
 
