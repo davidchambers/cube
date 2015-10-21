@@ -150,7 +150,6 @@
   - [x] Reanimate (Tempest)
   - [x] Sarcomancy (Tempest)
   - [x] Carnophage (Exodus)
-  - [x] Corrupt (Urza's Saga)
   - [x] Duress (Urza's Saga)
   - [x] Expunge (Urza's Saga)
   - [x] Yawgmoth's Will (Urza's Saga)
@@ -185,6 +184,7 @@
   - [x] Skirsdag High Priest (Innistrad)
   - [x] Unburial Rites (Innistrad)
   - [x] Tragic Slip (Dark Ascension)
+  - [x] Hero's Downfall (Theros)
   - [x] Mogis's Marauder (Theros)
 
 ### Red
