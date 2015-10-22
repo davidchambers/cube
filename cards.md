@@ -45,7 +45,6 @@
   - [x] Shining Shoal (Betrayers of Kamigawa)
   - [x] Condemn (Dissension)
   - [x] Griffin Guide (Time Spiral)
-  - [x] Knight of the Holy Nimbus (Time Spiral)
   - [x] Mana Tithe (Planar Chaos)
   - [x] Mirror Entity (Lorwyn)
   - [x] Oblivion Ring (Lorwyn)
@@ -60,6 +59,7 @@
   - [x] Thalia, Guardian of Thraben (Dark Ascension)
   - [x] Spear of Heliod (Theros)
   - [x] Seeker of the Way (Khans of Tarkir)
+  - [x] Soulfire Grand Master (Fate Reforged)
 
 ### Blue
 
