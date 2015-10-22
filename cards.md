@@ -34,7 +34,6 @@
   - [x] Weathered Wayfarer (Onslaught)
   - [x] Whipcorder (Onslaught)
   - [x] Akroma, Angel of Wrath (Legions)
-  - [x] Glowrider (Legions)
   - [x] Decree of Justice (Scourge)
   - [x] Eternal Dragon (Scourge)
   - [x] Wing Shards (Scourge)
@@ -58,6 +57,7 @@
   - [x] Doomed Traveler (Innistrad)
   - [x] Fiend Hunter (Innistrad)
   - [x] Geist-Honored Monk (Innistrad)
+  - [x] Thalia, Guardian of Thraben (Dark Ascension)
   - [x] Spear of Heliod (Theros)
   - [x] Seeker of the Way (Khans of Tarkir)
 
