@@ -289,7 +289,6 @@
   - [x] Genesis (Judgment)
   - [x] Grizzly Fate (Judgment)
   - [x] Hystrodon (Onslaught)
-  - [x] Nantuko Vigilante (Legions)
   - [x] Tooth and Nail (Mirrodin)
   - [x] Troll Ascetic (Mirrodin)
   - [x] Eternal Witness (Fifth Dawn)
@@ -312,6 +311,7 @@
   - [x] Sylvan Caryatid (Theros)
   - [x] Courser of Kruphix (Born of the Gods)
   - [x] Hornet Queen (Magic 2015)
+  - [x] Den Protector (Dragons of Tarkir)
 
 ### Artifact
 
