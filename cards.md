@@ -243,12 +243,12 @@
   - [x] Arc Trail (Scars of Mirrodin)
   - [x] Devil's Play (Innistrad)
   - [x] Hellrider (Dark Ascension)
-  - [x] Pyreheart Wolf (Dark Ascension)
   - [x] Young Pyromancer (Magic 2014)
   - [x] Harness by Force (Journey into Nyx)
   - [x] Hordeling Outburst (Khans of Tarkir)
   - [x] Monastery Swiftspear (Khans of Tarkir)
   - [x] Sarkhan, the Dragonspeaker (Khans of Tarkir)
+  - [x] Zurgo Bellstriker (Dragons of Tarkir)
 
 ### Green
 
