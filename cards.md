@@ -132,7 +132,6 @@
   - [x] Sinkhole (Unlimited Edition)
   - [x] Hymn to Tourach (Fallen Empires)
   - [x] Dance of the Dead (Ice Age)
-  - [x] Foul Familiar (Ice Age)
   - [x] Necropotence (Ice Age)
   - [x] Pox (Ice Age)
   - [x] Contagion (Alliances)
@@ -185,6 +184,7 @@
   - [x] Tragic Slip (Dark Ascension)
   - [x] Hero's Downfall (Theros)
   - [x] Mogis's Marauder (Theros)
+  - [x] Whip of Erebos (Theros)
   - [x] Toxic Deluge (Commander 2013)
 
 ### Red
