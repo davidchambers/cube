@@ -80,7 +80,6 @@
   - [x] Man-o'-War (Visions)
   - [x] Capsize (Tempest)
   - [x] Dismiss (Tempest)
-  - [x] Intuition (Tempest)
   - [x] Mana Leak (Stronghold)
   - [x] Merfolk Looter (Exodus)
   - [x] Confiscate (Urza's Saga)
@@ -122,6 +121,7 @@
   - [x] Think Twice (Innistrad)
   - [x] Thought Scour (Dark Ascension)
   - [x] Hour of Need (Journey into Nyx)
+  - [x] Dig Through Time (Khans of Tarkir)
   - [x] Disdainful Stroke (Khans of Tarkir)
 
 ### Black
