@@ -282,7 +282,6 @@
   - [x] Thornscape Battlemage (Planeshift)
   - [x] Call of the Herd (Odyssey)
   - [x] Nimble Mongoose (Odyssey)
-  - [x] Roar of the Wurm (Odyssey)
   - [x] Werebear (Odyssey)
   - [x] Wild Mongrel (Odyssey)
   - [x] Basking Rootwalla (Torment)
@@ -311,6 +310,7 @@
   - [x] Thrun, the Last Troll (Mirrodin Besieged)
   - [x] Avacyn's Pilgrim (Innistrad)
   - [x] Sylvan Caryatid (Theros)
+  - [x] Courser of Kruphix (Born of the Gods)
   - [x] Hornet Queen (Magic 2015)
 
 ### Artifact
