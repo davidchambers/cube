@@ -218,7 +218,6 @@
   - [x] Dwarven Blastminer (Onslaught)
   - [x] Rorix Bladewing (Onslaught)
   - [x] Warbreak Trumpeter (Legions)
-  - [x] Goblin Warchief (Scourge)
   - [x] Siege-Gang Commander (Scourge)
   - [x] Sulfuric Vortex (Scourge)
   - [x] Slith Firewalker (Mirrodin)
@@ -248,6 +247,7 @@
   - [x] Hordeling Outburst (Khans of Tarkir)
   - [x] Monastery Swiftspear (Khans of Tarkir)
   - [x] Sarkhan, the Dragonspeaker (Khans of Tarkir)
+  - [x] Thunderbreak Regent (Dragons of Tarkir)
   - [x] Zurgo Bellstriker (Dragons of Tarkir)
 
 ### Green
