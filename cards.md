@@ -8,7 +8,6 @@
   - [x] Swords to Plowshares (Unlimited Edition)
   - [x] Wrath of God (Unlimited Edition)
   - [x] Land Tax (Legends)
-  - [x] Icatian Javelineers (Fallen Empires)
   - [x] Exile (Alliances)
   - [x] Reprisal (Alliances)
   - [x] Enlightened Tutor (Mirage)
@@ -58,6 +57,7 @@
   - [x] Thalia, Guardian of Thraben (Dark Ascension)
   - [x] Banisher Priest (Magic 2014)
   - [x] Spear of Heliod (Theros)
+  - [x] Spirit of the Labyrinth (Born of the Gods)
   - [x] Seeker of the Way (Khans of Tarkir)
   - [x] Soulfire Grand Master (Fate Reforged)
 
