@@ -62,6 +62,7 @@ declare -A sets=(
   ["Innistrad"]="ISD"
   ["Dark Ascension"]="DKA"
   ["Avacyn Restored"]="AVR"
+  ["Magic 2013"]="M13"
   ["Return to Ravnica"]="RTR"
   ["Gatecrash"]="GTC"
   ["Dragon's Maze"]="DGM"
