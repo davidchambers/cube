@@ -319,7 +319,6 @@
   - [x] Mana Vault (Unlimited Edition)
   - [x] Nevinyrral's Disk (Unlimited Edition)
   - [x] Winter Orb (Unlimited Edition)
-  - [x] Ivory Tower (Antiquities)
   - [x] Triskelion (Antiquities)
   - [x] Fellwar Stone (The Dark)
   - [x] Icy Manipulator (Ice Age)
@@ -359,6 +358,7 @@
   - [x] Sensei's Divining Top (Champions of Kamigawa)
   - [x] Pithing Needle (Saviors of Kamigawa)
   - [x] Molten-Tail Masticore (Scars of Mirrodin)
+  - [x] Precursor Golem (Scars of Mirrodin)
   - [x] Runechanter's Pike (Innistrad)
 
 ### Land
