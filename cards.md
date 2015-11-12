@@ -264,7 +264,6 @@
   - [x] Natural Order (Visions)
   - [x] River Boa (Visions)
   - [x] Stampeding Wildebeests (Visions)
-  - [x] Uktabi Orangutan (Visions)
   - [x] Verdant Force (Tempest)
   - [x] Spike Feeder (Stronghold)
   - [x] Wall of Blossoms (Stronghold)
@@ -311,6 +310,7 @@
   - [x] Sylvan Caryatid (Theros)
   - [x] Courser of Kruphix (Born of the Gods)
   - [x] Hornet Queen (Magic 2015)
+  - [x] Reclamation Sage (Magic 2015)
   - [x] Den Protector (Dragons of Tarkir)
 
 ### Artifact

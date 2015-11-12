@@ -71,6 +71,7 @@ declare -A sets=(
   ["Commander 2013"]="C13"
   ["Born of the Gods"]="BNG"
   ["Journey into Nyx"]="JOU"
+  ["Magic 2015"]="M15"
   ["Khans of Tarkir"]="KTK"
   ["Fate Reforged"]="FRF"
   ["Dragons of Tarkir"]="DTK"
