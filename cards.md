@@ -168,7 +168,7 @@
   - [x] Withered Wretch (Legions)
   - [x] Death's-Head Buzzard (Scourge)
   - [x] Tendrils of Agony (Scourge)
-  - [x] Zombie Cutthroat (Scourge)
+  - [x] Twisted Abomination (Scourge)
   - [x] Night's Whisper (Fifth Dawn)
   - [x] Nezumi Graverobber (Champions of Kamigawa)
   - [x] Dark Confidant (Ravnica: City of Guilds)
